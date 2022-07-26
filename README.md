@@ -5,6 +5,7 @@
 
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
+<p>
 
 | **Category** | **Technologies** |
 | - | - |
@@ -16,6 +17,7 @@
 
 <details>
 <summary><b>📈 Github Stats</b></summary>
+<p>
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklarose&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
