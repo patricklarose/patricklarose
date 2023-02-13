@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 💼 Working as an electronic sales associate
 - 🔭 I'm currently working on the front-end and back-end for my [website](https://www.patricklarose.xyz)
 - 🌐 My Website: [patricklarose.xyz](https://patricklarose.xyz)
 - 📫 How to reach me: [hello@patricklarose.xyz](mailto:hello@patricklarose.xyz)
