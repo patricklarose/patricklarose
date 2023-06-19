@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently working on the front-end and back-end for my [website](https://www.patricklarose.xyz)
+- 🔭 I'm currently building a HomeLab
 - 🌐 My Website: [patricklarose.xyz](https://patricklarose.xyz)
 - 📫 How to reach me: [hello@patricklarose.xyz](mailto:hello@patricklarose.xyz)
 
