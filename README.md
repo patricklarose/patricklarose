@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile! 👋🏻
-- 🌐 My Website: [patricklarose.xyz](https://patricklarose.xyz)
+- 🌐 My Website: [patricklarose.github.io](https://patricklarose.github.io/website/)
 - 📫 How to reach me: [hello@patricklarose.xyz](mailto:hello@patricklarose.xyz)
 
 <details>
